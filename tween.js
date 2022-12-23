@@ -14,7 +14,7 @@ TWEEN.Interpolation={Linear:function(a,c){var b=a.length-1,d=b*c,e=Math.floor(d)
 e*e;return(2*c-2*b+a+d)*e*f+(-3*c+3*b-2*a-d)*f+a*e+c}}};
 
 
-}
+
 /*
      FILE ARCHIVED ON 21:13:42 Apr 04, 2019 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 16:26:20 Dec 22, 2022.
